@@ -1,0 +1,4 @@
+# Project exclude paths
+/common/target/
+/front/target/
+/remoting/target/
